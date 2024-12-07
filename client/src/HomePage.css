@@ -1,0 +1,9 @@
+.homepage-section {
+    height: 100vh;
+    width: 1500px;
+    background-image: url('joya9.jpg'); /* Cambia a la ruta de tu imagen */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
